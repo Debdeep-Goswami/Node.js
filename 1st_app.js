@@ -4,4 +4,5 @@ function sayHello(name){
 }
 
 sayHello("Debdeep");
-
+sayHello();
+sayHello("");
